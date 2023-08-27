@@ -10,6 +10,7 @@ qiskit = "*"
 qiskit-aer = "*"
 matplotlib = "*"
 pylatexenc = "*"
+seaborn = "*"
 
 [dev-packages]
 
