@@ -4,13 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyter = "*"
 numpy = "*"
 qiskit = "*"
 qiskit-aer = "*"
 matplotlib = "*"
 pylatexenc = "*"
 seaborn = "*"
+pydot = "*"
+jupyter = "*"
+graphviz = "*"
 
 [dev-packages]
 
